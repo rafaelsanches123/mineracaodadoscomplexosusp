@@ -96,4 +96,3 @@ Lots of things to do! Among them:
 This software is licensed under the GPLv2.
 
 Texts examples dataset collected by Francisco José Monaco (monaco@icmc.usp.br)
-
